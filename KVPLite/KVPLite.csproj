@@ -7,8 +7,8 @@
     <Product>KVPLite</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>KVPLite</PackageId>
-    <Version>1.0.1</Version>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
